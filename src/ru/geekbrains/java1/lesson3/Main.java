@@ -33,7 +33,7 @@ public class Main {
                         System.out.println("Загаданное число больше");
                     }
                     if (userNumber == randomNumber) {
-                        System.out.println("Вы выиграли!");
+                        System.out.println("Вы выиграли!!!");
                         break;
                     }
                     counter++;
